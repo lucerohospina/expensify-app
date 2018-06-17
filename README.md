@@ -1,5 +1,5 @@
-# INDECISION APP
+# EXPENSIFY APP
 
-Put your life in the hands of a computer.
+React Router example
 
 ### A project developed with **React**
